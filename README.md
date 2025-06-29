@@ -10,6 +10,11 @@ Smart Exam Scheduler is a simple Python program that allows users to manage exam
 - Delete an exam from the list.
 - Menu-driven interface for easy navigation.
 
+## Date Formats
+
+- **Date**: MM-DD-YYYY (example: 06-30-2025)
+- **Time**: HH:MM in 24-hour format (example: 14:30)
+
 ## How to Run the Program
 
 1. Make sure Python is installed on your system.
