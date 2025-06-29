@@ -12,18 +12,13 @@ Smart Exam Scheduler is a simple Python program that allows users to manage exam
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - Regular expressions (re module)
 - Dictionaries and lists for storing data
 
-## Input Formats
-
-- **Date**: MM-DD-YYYY (example: 06-30-2025)
-- **Time**: HH:MM in 24-hour format (example: 14:30)
-
 ## How to Run the Program
 
-1. Make sure Python 3 is installed on your system.
+1. Make sure Python is installed on your system.
 
 2. Download or clone the repository:
 
