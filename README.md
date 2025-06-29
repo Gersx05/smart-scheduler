@@ -29,7 +29,7 @@ Smart Exam Scheduler is a simple Python program that allows users to manage exam
 - This project is for practice or personal use. No external libraries or databases are required.
 
 ### License
--This project is open source.
+- This project is open source.
 
 ### Members:
 - Gerson A. Penrejito
