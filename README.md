@@ -1,4 +1,3 @@
-# smart-scheduler
 # Smart Exam Scheduler
 
 Smart Exam Scheduler is a simple Python program that allows users to manage exam schedules through the command line. It supports adding, viewing, editing, and deleting exams using a menu-based interface. Each exam includes the exam name, date, time, and assigned room.
