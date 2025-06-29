@@ -25,13 +25,11 @@ Smart Exam Scheduler is a simple Python program that allows users to manage exam
    git clone https://github.com/your-username/smart-exam-scheduler.git
    cd smart-exam-scheduler
 
-Note
-Exam data is stored temporarily in memory and is cleared when the program ends.
+#Note
+- This project is for practice or personal use. No external libraries or databases are required.
 
-This project is for practice or personal use. No external libraries or databases are required.
-
-License
-This project is open source.
+#License
+-This project is open source.
 
 Members:
 - Gerson A. Penrejito
